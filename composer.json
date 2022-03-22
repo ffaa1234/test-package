@@ -17,5 +17,13 @@
         "psr-4": {
             "Khonelia\\Contact\\": "src/"
         }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Khonelia\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
