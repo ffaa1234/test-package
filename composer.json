@@ -1,0 +1,21 @@
+{
+    "name": "foobar/contact",
+    "description": "test description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nino khonelia",
+            "email": "khonelianino@gmail.com"
+        }
+    ],
+
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Foobar\\Contact\\": "src/"
+        }
+    }
+}
