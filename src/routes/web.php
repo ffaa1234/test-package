@@ -1,6 +1,6 @@
 <?php
 
-use Foobar\Contact\Http\Controllers\ContactController;
+use Khonelia\Contact\Http\Controllers\ContactController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Foobar\Contact;
+namespace Khonelia\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

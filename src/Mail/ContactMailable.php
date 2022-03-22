@@ -1,6 +1,6 @@
 <?php
 
-namespace Foobar\Contact\Mail;
+namespace Khonelia\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

@@ -1,13 +1,13 @@
 <?php
 
-namespace Foobar\Contact\Http\Controllers;
+namespace Khonelia\Contact\Http\Controllers;
 
 use Throwable;
 use Illuminate\Http\Request;
-use Foobar\Contact\Models\Contact;
+use Khonelia\Contact\Models\Contact;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Mail;
-use Foobar\Contact\Mail\ContactMailable;
+use Khonelia\Contact\Mail\ContactMailable;
 
 class ContactController extends Controller{
 
